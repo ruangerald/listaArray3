@@ -1,0 +1,33 @@
+body {
+    color: white;
+    background-color: #87A96B;
+    padding: 8px;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    padding: 8px;
+    color: white;
+    font-size: 2rem;
+}
+
+::placeholder{
+    color: white;
+}
+input{
+    background-color: #4B6F44;
+    color: white;
+    border: solid rgb(0, 32, 0);
+    border-radius: 8px;
+    width: 200px;
+    height: 25px;
+
+}
+button{
+    background-color: #4B6F44;
+    color: white;
+    border: solid rgb(0, 32, 0);
+    border-radius: 8px;
+    
+}
